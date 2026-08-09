@@ -1,8 +1,5 @@
 # Name: Fuzail Fazal
 # Date: 6 July 2026
-# Program: Kalc - Maths Game Login, Menu, Quiz, Profile and Leaderboard System
-# Purpose: This program lets a user create an account, play random maths quizzes,
-# save cumulative XP, view leaderboard rankings, and check their profile data.
 # Changes made: Added the redesigned maths mode selection screen.
 
 import tkinter as tk
