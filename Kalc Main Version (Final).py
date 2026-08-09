@@ -538,7 +538,7 @@ def pass_ok(pwd):
         return False
  
     if len(pwd) > maxpl:
-        messagebox.showerror("Error", "Password must be 30 characters or fewer.")
+        messagebox.showerror("Error", "Password must be 20 characters or fewer.")
         return False
  
     if "," in pwd:
